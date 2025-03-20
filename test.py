@@ -4,3 +4,5 @@ import math
 
 print(math.pi)
 print("ellooooo!")
+
+print("ello mordo, jak zdrowie?")
